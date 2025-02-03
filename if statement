@@ -1,0 +1,11 @@
+package main.java;
+public class els {
+public static void main(String[] args) {
+	int a = 11;
+	if (a<=10) {
+		System.out.println("i love java");
+	} else {
+		System.out.println("i love python");
+	}
+}
+}
